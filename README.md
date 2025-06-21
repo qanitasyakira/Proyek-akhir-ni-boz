@@ -1,2 +1,9 @@
 # Proyek-akhir-ni-boz
-"ytta aja" *jokes
+
+# solusiny
+- Memberitahu dampak dari perubahan iklim pada bumi 😕
+- Memberi cara cara untuk mengurangi perubahan iklim 😏
+
+# App
+- Discord
+- vs code
